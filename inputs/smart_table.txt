@@ -1,0 +1,61 @@
+Proteins	Object ID	Gene
+30S ribosomal subunit protein S1	EG10900-MONOMER	rpsA
+30S ribosomal subunit protein S10	EG10909-MONOMER	rpsJ
+30S ribosomal subunit protein S11	EG10910-MONOMER	rpsK
+30S ribosomal subunit protein S12	EG10911-MONOMER	rpsL
+30S ribosomal subunit protein S13	EG10912-MONOMER	rpsM
+30S ribosomal subunit protein S14	EG10913-MONOMER	rpsN
+30S ribosomal subunit protein S15	EG10914-MONOMER	rpsO
+30S ribosomal subunit protein S16	EG10915-MONOMER	rpsP
+30S ribosomal subunit protein S17	EG10916-MONOMER	rpsQ
+30S ribosomal subunit protein S18	EG10917-MONOMER	rpsR
+30S ribosomal subunit protein S19	EG10918-MONOMER	rpsS
+30S ribosomal subunit protein S2	EG10901-MONOMER	rpsB
+30S ribosomal subunit protein S20	EG10919-MONOMER	rpsT
+30S ribosomal subunit protein S21	EG10920-MONOMER	rpsU
+30S ribosomal subunit protein S3	EG10902-MONOMER	rpsC
+30S ribosomal subunit protein S4	EG10903-MONOMER	rpsD
+30S ribosomal subunit protein S5	EG10904-MONOMER	rpsE
+30S ribosomal subunit protein S6	EG10905-MONOMER	rpsF
+30S ribosomal subunit protein S7	EG10906-MONOMER	rpsG
+30S ribosomal subunit protein S8	EG10907-MONOMER	rpsH
+30S ribosomal subunit protein S9	EG10908-MONOMER	rpsI
+50S ribosomal subunit protein L1	EG10864-MONOMER	rplA
+50S ribosomal subunit protein L10	EG10871-MONOMER	rplJ
+50S ribosomal subunit protein L11	EG10872-MONOMER	rplK
+50S ribosomal subunit protein L12	EG10873-MONOMER	rplL
+50S ribosomal subunit protein L13	EG10874-MONOMER	rplM
+50S ribosomal subunit protein L14	EG10875-MONOMER	rplN
+50S ribosomal subunit protein L15	EG10876-MONOMER	rplO
+50S ribosomal subunit protein L16	EG10877-MONOMER	rplP
+50S ribosomal subunit protein L17	EG10878-MONOMER	rplQ
+50S ribosomal subunit protein L18	EG10879-MONOMER	rplR
+50S ribosomal subunit protein L19	EG10880-MONOMER	rplS
+50S ribosomal subunit protein L2	EG10865-MONOMER	rplB
+50S ribosomal subunit protein L20	EG10881-MONOMER	rplT
+50S ribosomal subunit protein L21	EG50001-MONOMER	rplU
+50S ribosomal subunit protein L22	EG10882-MONOMER	rplV
+50S ribosomal subunit protein L23	EG10883-MONOMER	rplW
+50S ribosomal subunit protein L24	EG10884-MONOMER	rplX
+50S ribosomal subunit protein L25	EG10885-MONOMER	rplY
+50S ribosomal subunit protein L27	EG50002-MONOMER	rpmA
+50S ribosomal subunit protein L28	EG10886-MONOMER	rpmB
+50S ribosomal subunit protein L29	EG10887-MONOMER	rpmC
+50S ribosomal subunit protein L3	EG10866-MONOMER	rplC
+50S ribosomal subunit protein L30	EG10888-MONOMER	rpmD
+50S ribosomal subunit protein L31	EG10889-MONOMER	rpmE
+50S ribosomal subunit protein L31B	G6167-MONOMER	ykgM
+50S ribosomal subunit protein L32	EG10890-MONOMER	rpmF
+50S ribosomal subunit protein L33	EG10891-MONOMER	rpmG
+50S ribosomal subunit protein L34	EG10892-MONOMER	rpmH
+50S ribosomal subunit protein L35	EG11231-MONOMER	rpmI
+50S ribosomal subunit protein L36	EG11232-MONOMER	rpmJ
+50S ribosomal subunit protein L36B	MONOMER0-2656	ykgO
+50S ribosomal subunit protein L4	EG10867-MONOMER	rplD
+50S ribosomal subunit protein L5	EG10868-MONOMER	rplE
+50S ribosomal subunit protein L6	EG10869-MONOMER	rplF
+50S ribosomal subunit protein L9	EG10870-MONOMER	rplI
+ATP-dependent RNA helicase DeaD	EG10215-MONOMER	deaD
+ClpXP protease specificity-enhancing factor	EG10978-MONOMER	sspB
+ribosome maturation factor RimM	EG11153-MONOMER	rimM
+ribosome-associated protein Sra	EG11508-MONOMER	sra
