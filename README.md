@@ -11,12 +11,10 @@ conda env create -f env_dup.yml
 
 # Utilización:
 
-# Las funciones estan almacenadas en un script titulado prot_func.py, Las funciones estan debidamente documentas y las puede consultar abriendo el archivo con cualquier lector de texto como nano, vim, kate, etc..
+Las funciones estan almacenadas en un script titulado prot_func.py, Las funciones estan debidamente documentas y las puede consultar abriendo el archivo con cualquier lector de texto como nano, vim, kate, etc..
 
-# Se incluye un ejemplo practico de utilización en el archivo jair_ernesto_diaz_ramirez.py. Para ejecutarlo solo se tiene que ejecutar el siguiente comando:
+Se incluye un ejemplo practico de utilización en el archivo jair_ernesto_diaz_ramirez.py. Para ejecutarlo solo se tiene que ejecutar el siguiente comando:
 python3 jair_ernesto_diaz_ramirez.py
 El ejemplo consiste en el analisís de la estequiometria de las proteinas ribosomales. Las imagenes se almacenan en la carpeta imagenes que es creada automaticamente al ejecutar el código. 
 
 # Cualquier duda o comentrario al correo: diaz.jair.e@gmail.com
-
-# py_sci_class
